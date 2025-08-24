@@ -2,7 +2,8 @@ This PHP-based membership system offers an all-encompassing suite. It adeptly ha
 An administrator has full control over the system. At the core of this PHP membership system project lies a robust admin panel. It serves as the centralized control hub, empowering administrators to manage all facets of the platform effortlessly. From overseeing memberships, revenues, types, and more to managing cards, this panel offers comprehensive control. Detailed reports and insights are readily accessible, providing administrators with invaluable data for informed decision-making Additionally, an integrated system setting ensures administrators can simply change their minor settings at any time. As well as update passwords and currency for the whole system. All features are accessible only from the admin panel, as a result, there will be only one system user.
 
 
-** Available Features: **
+**Available Features:**
+
 Admin Panel
 Membership Types
 Manage Membership
@@ -16,8 +17,13 @@ Change Currency
 Update Password
 
 
-Project Name: Membership Management System 
-Technologies Used: PHP with MySQL Database 
-PHP version (Recommended): 7 Database: MySQL 
-Type: Web Application
+**Project Name:** Membership Management System 
+
+**Technologies Used:** PHP with MySQL Database 
+
+**PHP version (Recommended):** 7 
+
+**Database:** MySQL
+
+**Type:** Web Application
 
